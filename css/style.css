@@ -1,3 +1,7 @@
+*{
+margin: 0;
+}
+
 html {
   font-family: "Open Sans", system-ui;
   font-weight: 400;
