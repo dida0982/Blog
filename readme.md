@@ -5,3 +5,6 @@
 ![Blog](./imgs/Captura%20de%20tela%203.png)
 
 ![Blog](./imgs/video_blog.mp4)
+
+[Link](https://dida0982.github.io/Blog/)
+
