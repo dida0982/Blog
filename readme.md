@@ -1,5 +1,7 @@
-![Ciador](./imgs/criador.png)
+![Ciador](./imgs/Captura%20de%20tela%202.png)
 
-![Blog](./imgs/blog.png)
+![Blog](./imgs/Captura%20de%20tela%20de%201.png)
 
-![Blog](./imgs/video_blog.mkv)
+![Blog](./imgs/Captura%20de%20tela%203.png)
+
+![Blog](./imgs/video_blog.mp4)
